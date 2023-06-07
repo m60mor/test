@@ -1,0 +1,7 @@
+.login-form::before {
+    content: 'Nauczyciel';
+  }
+
+.icon {
+    content: url('../../../static/images/teacherW.png');
+} 

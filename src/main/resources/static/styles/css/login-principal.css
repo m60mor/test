@@ -1,0 +1,7 @@
+.login-form::before {
+  content: 'Dyrektor';
+}
+
+.icon {
+  content: url('../../../static/images/principalW.png');
+} 

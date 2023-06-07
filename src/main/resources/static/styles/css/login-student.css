@@ -1,0 +1,7 @@
+.login-form::before {
+    content: 'Uczeń';
+  }
+
+.icon {
+    content: url('../../../static/images/student.png');
+} 
